@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/eduardobravop" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1082974032482443265/8gsUI9oA_400x400.jpg" alt="eduardobravop" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/eduardobravop" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1082974032482443265/8gsUI9oA_400x400.jpg" alt="eduardobravop" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
