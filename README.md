@@ -17,5 +17,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardobravop&show_icons=true&locale=en&layout=compact" alt="eduardobravop" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eduardobravop&show_icons=true&locale=en" alt="eduardobravop" /></p>
-
