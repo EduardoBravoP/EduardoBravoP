@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eduardo</h1>
 <h3 align="center">A passionate full stack developer, I have experience in Javascript | Typescript | ReactJS | NextJS | React Native | NodeJS.</h3>
 
+- 🎥 My youtube channel: https://www.youtube.com/@eduubravoo
 - 📫 How to reach me **eduardobravopires@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
